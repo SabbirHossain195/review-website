@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "courseName": "Complete Web Development",
+        "img": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg",
+        "details": "You can able to make a fully complete website after doing this course from us and there also job opportunity for you."
+    },
+    {
+        "id": "2",
+        "courseName": "Complete App Development",
+        "img": "https://www.digitalauthority.me/wp-content/uploads/2019/04/shutterstock_572886535.jpg",
+        "details": "You can able to make a fully complete app after doing this course from us and there also job opportunity for you."
+    },
+    {
+        "id": "3",
+        "courseName": "Ethical Hacking",
+        "img": "https://thumbs.dreamstime.com/z/children-read-books-enjoy-literature-open-book-reading-learning-education-entertainment-cute-boy-girl-love-to-learn-177635053.jpg",
+        "details": "You can become a pro level hacker after doing this course from us and there also job opportunity for you."
+    },
+    {
+        "id": "4",
+        "courseName": "Masterclass Excel",
+        "img": "https://freeagent-res.cloudinary.com/image/upload/c_limit,w_1000/dpr_auto,f_auto/website-images/netlify/guides__self-assessment__list-of-things-you-need-to-complete-self-assessment.png",
+        "details": "You can do so many thing on ms excel after doing this course from us and there also job opportunity for you."
+    },
+    {
+        "id": "5",
+        "courseName": "Digital Marketing & SEO",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVdrY6jc0k-pGJweTRkY3i0t58Gic2SNso8RCfYpT0lMkXgf4omLaIY6oAe_UHrJqTxWw&usqp=CAU",
+        "details": "You can do the marketing on digital platform and SEO after doing this course from us and there also job opportunity for you."
+    },
+    {
+        "id": "6",
+        "courseName": "Animation Design",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceadB6M_V5BCkdAXXHpCwsUU-SH2sY6FF_UYRkmI_Cx4kD9GMYNFsKlktc7PeVaqjgY0&usqp=CAU",
+        "details": "You can able to make any kind of animation after doing this course from us and there also job opportunity for you."
+    },
+    {
+        "id": "7",
+        "courseName": "Graphics Design",
+        "img": "https://us.123rf.com/450wm/rastudio/rastudio1808/rastudio180800049/105826738-man-doing-human-brain-puzzle-psychology-and-psychotherapy-session-mental-healing-and-wellbeing-thera.jpg?ver=6",
+        "details": "You can able to make any kind of graphics design after doing this course from us and there also job opportunity for you."
+    },
+    {
+        "id": "8",
+        "courseName": "UI/UX Design",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt2wJxKq57kcDzd29ByWE-ed-UXeESzuuFew&usqp=CAU",
+        "details": "You can able and beocme a good UI/UX designer after doing this course from us and there also job opportunity for you."
+    },
+    {
+        "id": "9",
+        "courseName": "Complete Enterprenuership",
+        "img": "https://images.squarespace-cdn.com/content/v1/5a4706ed6957da13a60c68ad/1532707058250-GD92VFN9KLH9CIWWZ2M6/Lifetime.png?format=2500w",
+        "details": "You can able to think more about new udeas and get complete guideline and support to start a startup and become a enbterprenuer."
+    }
+]

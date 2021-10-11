@@ -1,0 +1,27 @@
+.footer{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background-color: black;
+    width: 100%;
+    margin: 100px 0px 0px 0px;
+}
+.footer p{
+font-size: 10px;
+ color: white;
+ padding-bottom: 0;
+ margin-bottom: 0;
+ margin-top: 20px;
+}
+.footer h6{
+    margin: 0;
+    padding-bottom: 20px;
+    color: white;
+    font-size: 30px;
+}
+.footer span{
+    color: rgb(27, 145, 255);
+}
+.footer small{
+    color: white;
+    font-size: 15px;
+}

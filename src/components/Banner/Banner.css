@@ -1,0 +1,16 @@
+.banner-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    margin-left: 50px;
+    font-size: 25px;
+    color: rgb(33, 103, 255);
+}
+.image img{
+    width: 80%;
+}
+.banner-container:hover .image img{
+    transform: scale(1.2);
+}

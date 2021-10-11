@@ -1,0 +1,15 @@
+.about-container{
+    margin-top: 50px;
+}
+.about-title{
+    margin-bottom: 40px;
+}
+.about-title Span{
+    color: rgba(10, 124, 255, 0.671);
+}
+.about-container p{
+    margin: 50px 200px;
+}
+.about-container:hover img{
+    transform: scale(1.2);
+}

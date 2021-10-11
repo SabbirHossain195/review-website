@@ -6,6 +6,7 @@ import './Trending.css';
 const Trending = () => {
     return (
         <div className="trends-container">
+            <h1>The Trending and most Demandable Courses List</h1>
             <div className="trends">
                 <h3>Digital Marketing</h3>
                 <img src="https://www.springboard.com/library/static/e0b29052b2928958a4daec7dc3355054/c1b63/08-07-_-banner.png"></img>
